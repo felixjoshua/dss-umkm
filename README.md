@@ -48,7 +48,7 @@ dss-umkm/
 │   ├── forecasting.py      # Perkiraan Penjualan (7/14/30 hari)
 │   ├── inventory.py        # Stok & Pembelian
 │   ├── pengaturan.py       # Manajemen & Pengaturan (5 tab)
-│   └── research.py         # Validasi & Metodologi (opsional, tidak di navigasi)
+│   └── research.py         # TIDAK DI INCLUDE DI FINAL WEB (KARENA INI HANYA VISUAL TEKNIS)
 │
 ├── components/
 │   ├── ui.py               # tema CSS + komponen kartu/KPI/action
